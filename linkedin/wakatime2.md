@@ -1,0 +1,1 @@
+Muito feliz de ter realizado um passo muito importante para o objetivo dessa semana, que é ficar top 1% no WakaTime. No primeiro dia do ranking semanal cheguei top 80%, segundo dia 50%, e hoje alcancei top 20% e agora é continuar o esforço no trabalho e estudos para chegar no top 100 até sexta, link para quem quiser acompanhar o progresso https://wakatime.com/@juancolchete.
