@@ -1,0 +1,1 @@
+Hoje eu me surpreendi com o resultado quando olhei o leaderboard, estou top 7% e muito feliz, porque estou cada vez mais perto da meta dessa semana que é ficar top 1% no WakaTime, agora me lanço um objetivo secundário que é ficar top 0.5% ou top 50 no WakaTime estou na disputa com mais 10k de desenvolvedores.
