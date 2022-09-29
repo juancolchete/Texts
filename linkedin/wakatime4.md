@@ -1,0 +1,1 @@
+Hoje quando fui olhar o ranking até assustei, vi que estava top 2%, todo o esforço está valendo à pena e a meta dessa semana está cada vez mais perto, agora a ideia é focar em atingir o objetivo secundário que é ficar top 50 no Leaderboard e representar o Brasil e a Web3 no cenário global de programação.
