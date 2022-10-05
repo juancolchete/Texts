@@ -1,0 +1,1 @@
+Hoje sou o programador das Américas que está com a melhor classificação no WakaTime, estou em 4º lugar no Ranking global e agora estou lançando duas Leaderboard para a minha comunidade, Brackets que é de programação em geral e BlockchainBr para desenvolvedores web3 do Brasil,
