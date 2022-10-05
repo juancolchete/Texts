@@ -1,6 +1,12 @@
 {
     "cSpell.enabled":true,
     "cSpell.language": "pt_BR",
+    "cSpell.overrides": [
+        {
+            "filename": "/stackoverflow",
+            "language": "en"
+        }
+    ],
     "cSpell.enableFiletypes": [
         "markdown"
     ],
