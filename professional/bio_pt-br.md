@@ -1,0 +1,1 @@
+Juan Colchete, Desenvolvedor Blockchain Sênior na Bloca Studios, professor particular de smart contacts e consultor de soluções envolvendo EVM, NFT, Tokenização e web3.
