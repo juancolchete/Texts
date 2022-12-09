@@ -1,0 +1,2 @@
+# Challenge Wakatime
+O maior desafio desse ano está proposto, meu objetivo é alcançar o top 1 no wakatime, ranking com mais de 10k de programadores, na minha última tentativa o objetivo era ficar no top 50 e alcancei o 4º lugar, e para tornar ainda mais desafiador, minha meta diária será de 30 commits.
