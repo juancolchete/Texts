@@ -1,0 +1,2 @@
+# Challenge Wakatime
+O primeiro dia do desafio do wakatime foi concluído com sucesso, admito que não foi nada fácil, foram mais de 22 horas programando a fio neste sábado. Foi o dia em que mais programei, praticamente dobrando o meu segundo melhor. Os 30 commits também foram alcançados com sucesso. Vamos aos rankings, estou top 75 do mundo e top 5 do Brasil e hoje passei a marca de mais de 500 horas trabalhadas utilizando o wakatime desde 24 de Setembro.
