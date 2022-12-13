@@ -1,2 +1,2 @@
 # Challenge Wakatime
-O segundo dia do desafio do wakatime foi concluído com sucesso, hoje foram mais de 16 horas trabalhadas estou no 28º posição no ranking global e no 3º lugar no ranking do Brasil.
+Estou em segundo lugar no Brasil e em 19º lugar do mundo no ranking do wakatime, o objetivo de chegar no top 1 está cada vez mais perto, hoje completo meu terceiro dia neste desafio.
