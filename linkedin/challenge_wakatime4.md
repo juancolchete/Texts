@@ -1,0 +1,2 @@
+# Challenge Wakatime
+Já estou no top 10 do mundo, hoje alcancei o 8º lugar no ranking do wakatime global e 1º lugar no Brasil, este é apenas o começo, neste momento a disputa se torna cada vez mais acirrada e cada minuto conta. A comunidade de Web3 também segue representada, estou em primeiro lugar em programadores solidity (leaderboard)[https://wakatime.com/leaders?rank=juancolchete]
