@@ -1,0 +1,2 @@
+# Challenge Wakatime
+Estou no top 2 do wakatime, ranking global com mais de 10k de programadores. Hoje foi o meu último dia do desafio. Nessa semana foram mais de 129 horas trabalhadas e mais de 210 commits foi uma experiência única mas é algo bem perigoso porque manter um ritmo como esse por mais de uma semana pode ser extremamente danoso para a saúde. Houveram momentos em que cheguei muito próximo de um esgotamento mental, mas o objetivo vai ser cumprido, amanhã saí o resultado final e pelos meus cálculos o primeiro lugar está garantido.
